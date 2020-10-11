@@ -1,0 +1,11 @@
+#addsearch-results {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#addsearch-results .addsearch-result-item-sub h1 a,
+#addsearch-results .addsearch-result-item-sub h2 a {
+  color: rgb(34, 116, 172);
+}
+#addsearch-results .addsearch-result-item-sub-active {
+  background-color: rgba(0, 0, 0, 0.045);
+}
